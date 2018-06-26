@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/ms-account/ms-account.iml" filepath="$PROJECT_DIR$/ms-account/ms-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-consumer/ms-consumer.iml" filepath="$PROJECT_DIR$/ms-consumer/ms-consumer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" filepath="$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-finance/ms-finance.iml" filepath="$PROJECT_DIR$/ms-finance/ms-finance.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-proxy/ms-proxy.iml" filepath="$PROJECT_DIR$/ms-proxy/ms-proxy.iml" />
+    </modules>
+  </component>
+</project>
