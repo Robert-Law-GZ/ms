@@ -5,12 +5,12 @@ import org.springframework.web.bind.annotation.RequestMapping;
 import org.springframework.web.bind.annotation.RestController;
 
 @RestController
-@RequestMapping(value = "/finance")
+@RequestMapping(value = "/bank")
 public class FinanceController {
 
-    @RequestMapping(value = "/bankInfo")
-    private BankInfo bankInfo(){
-        return  new BankInfo();
+    @RequestMapping(value = "/info")
+    private BankInfo bankInfo() {
+        return new BankInfo();
     }
 
 }
