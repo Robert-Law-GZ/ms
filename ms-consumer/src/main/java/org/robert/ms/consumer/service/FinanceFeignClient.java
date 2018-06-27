@@ -6,6 +6,6 @@ import org.springframework.web.bind.annotation.RequestMapping;
 
 @FeignClient(value = "finance")
 public interface FinanceFeignClient {
-    @RequestMapping(value = "/finance/bankInfo")
+    @RequestMapping(value = "/bank/info")
     BankInfo bankInfo();
 }

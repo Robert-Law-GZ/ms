@@ -3,9 +3,12 @@
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/ms-account" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-consumer" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-eureka-client-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-eureka-demo" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-eureka-server" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-finance" charset="UTF-8" />
-    <file url="file://$PROJECT_DIR$/ms-hystrix" charset="UTF-8" />
     <file url="file://$PROJECT_DIR$/ms-proxy" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-proxy-demo" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/ms-security" charset="UTF-8" />
   </component>
 </project>

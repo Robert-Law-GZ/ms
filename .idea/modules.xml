@@ -7,6 +7,7 @@
       <module fileurl="file://$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" filepath="$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-finance/ms-finance.iml" filepath="$PROJECT_DIR$/ms-finance/ms-finance.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-proxy/ms-proxy.iml" filepath="$PROJECT_DIR$/ms-proxy/ms-proxy.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-security/ms-security.iml" filepath="$PROJECT_DIR$/ms-security/ms-security.iml" />
     </modules>
   </component>
 </project>

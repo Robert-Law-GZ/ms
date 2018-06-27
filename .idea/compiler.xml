@@ -11,15 +11,20 @@
         <module name="ms-eureka-server" />
         <module name="ms-finance" />
         <module name="ms-proxy" />
+        <module name="ms-security" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ms-account" target="1.8" />
       <module name="ms-consumer" target="1.8" />
+      <module name="ms-eureka-client-demo" target="1.8" />
+      <module name="ms-eureka-demo" target="1.8" />
       <module name="ms-eureka-server" target="1.8" />
       <module name="ms-finance" target="1.8" />
       <module name="ms-hystrix" target="1.8" />
       <module name="ms-proxy" target="1.8" />
+      <module name="ms-proxy-demo" target="1.8" />
+      <module name="ms-security" target="1.8" />
       <module name="mshystrix" target="1.5" />
     </bytecodeTargetLevel>
   </component>
