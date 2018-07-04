@@ -7,6 +7,7 @@
         <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
         <outputRelativeToContentRoot value="true" />
         <module name="ms-account" />
+        <module name="ms-config" />
         <module name="ms-consumer" />
         <module name="ms-eureka-server" />
         <module name="ms-finance" />
@@ -16,6 +17,7 @@
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="ms-account" target="1.8" />
+      <module name="ms-config" target="1.8" />
       <module name="ms-consumer" target="1.8" />
       <module name="ms-eureka-client-demo" target="1.8" />
       <module name="ms-eureka-demo" target="1.8" />

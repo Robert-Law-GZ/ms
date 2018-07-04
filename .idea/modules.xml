@@ -3,6 +3,7 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/ms-account/ms-account.iml" filepath="$PROJECT_DIR$/ms-account/ms-account.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ms-config/ms-config.iml" filepath="$PROJECT_DIR$/ms-config/ms-config.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-consumer/ms-consumer.iml" filepath="$PROJECT_DIR$/ms-consumer/ms-consumer.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" filepath="$PROJECT_DIR$/ms-eureka-server/ms-eureka-server.iml" />
       <module fileurl="file://$PROJECT_DIR$/ms-finance/ms-finance.iml" filepath="$PROJECT_DIR$/ms-finance/ms-finance.iml" />

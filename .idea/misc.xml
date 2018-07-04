@@ -11,6 +11,7 @@
         <option value="$PROJECT_DIR$/ms-proxy-demo/pom.xml" />
         <option value="$PROJECT_DIR$/ms-eureka-client-demo/pom.xml" />
         <option value="$PROJECT_DIR$/ms-security/pom.xml" />
+        <option value="$PROJECT_DIR$/ms-config/pom.xml" />
       </list>
     </option>
   </component>
