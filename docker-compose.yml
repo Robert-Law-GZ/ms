@@ -1,0 +1,20 @@
+version: '3'
+services:
+  config:
+    build:
+      context: ms-config/
+      dockerfile: Dockerfile
+    ports:
+      - "8091:8091"
+  eureka:
+    build:
+      context: ms-eureka-server/
+      dockerfile: Dockerfile
+    ports:
+      - "8761:8761"
+  proxy:
+    build:
+      context: ms-proxy/
+      dockerfile: Dockerfile
+    ports:
+      - "8040:8040"
